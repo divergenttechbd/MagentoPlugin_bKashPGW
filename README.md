@@ -1,0 +1,1 @@
+Magento Plugin Readme file
